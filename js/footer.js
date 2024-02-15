@@ -7,11 +7,11 @@ const template = `
   <a href="https://facebook.com/" class="logo-container center">
     <img class="logo" src="assets/footer/facebook.svg" alt="" />
   </a>
-  <a href="https://twitter.com/" class="logo-container center">
+  <a href="https://twitter.com/Al3ss1Am0d" class="logo-container center">
     <img class="logo" src="assets/footer/twitter.svg" alt="" />
   </a>
 </div>
-<div class="text">Hollow Knight Clone Copyright 2022 TinTin Winata</div>
+<div class="text">Hollow Knight Clone Copyright 2024 Foxy Services</div>
 </footer>
 `;
 
