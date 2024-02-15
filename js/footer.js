@@ -11,7 +11,7 @@ const template = `
     <img class="logo" src="assets/footer/twitter.svg" alt="" />
   </a>
 </div>
-<div class="text">Hollow Knight Clone Copyright 2024 Foxy Services</div>
+<div class="text">Hollow Knight Clone Copyright 2024 Al3ss1Am0d</div>
 </footer>
 `;
 
